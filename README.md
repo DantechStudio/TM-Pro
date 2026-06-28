@@ -34,7 +34,7 @@
 - open CMD
 - run :
 ```diff
-+  py -m pip install pyinstaller
+py -m pip install pyinstaller
 ```
 - close CMD
 - go to project folder
@@ -42,7 +42,7 @@
 - then click on ```open PowerShell window here```
 - run :
 ```diff
-+  py -m PyInstaller -F -w -i icon.ico main.py
+py -m PyInstaller -F -w -i icon.ico main.py
 ```
 - then create shortcut of ```dist/main.exe``` on desktop
 
