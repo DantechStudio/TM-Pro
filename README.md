@@ -47,5 +47,5 @@ py -m PyInstaller -F -w -i icon.ico main.py
 - then create shortcut of ```dist/main.exe``` on desktop
 
 ## Attention
-- if you want to make ```.exe``` file, you need to have the IDle installed ```Python```
+- if you want to make ```.exe``` file, you need to have the IDLE installed ```Python```
 - don't delete ```Tasks.db``` file
