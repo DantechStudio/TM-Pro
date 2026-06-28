@@ -22,7 +22,7 @@
 - light & Dark mode
 - fullscreen mode
 
-## app screenshots
+## app screenshot
 <img width="1366" height="768" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/dd345fc9-23b8-4c86-9e3e-30dfde163357" />
 
 ## how to change it to ".exe" file
